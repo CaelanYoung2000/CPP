@@ -1,5 +1,4 @@
 //Lab8-1.cpp
-//Created/revised by <your name> on <current date>
 
 #include <iostream>
 using namespace std;
