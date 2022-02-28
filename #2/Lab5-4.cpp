@@ -1,5 +1,4 @@
 //Lab5-4.cpp - displays the total due for tickets
-//Created/revised by <your name> on <current date>
 
 #include <iomanip>
 #include <iostream>
