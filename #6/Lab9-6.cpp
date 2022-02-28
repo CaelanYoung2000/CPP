@@ -1,6 +1,4 @@
 //Lab9-6.cpp - displays straight-line depreciation
-//using the formula: (cost - salvage) / life
-//Created/revised by <your name> on <current date>
 
 #include <iostream>
 #include <iomanip>
