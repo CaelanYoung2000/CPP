@@ -1,5 +1,4 @@
 //Lab8-6.cpp - displays a store's quarterly (three month) sales
-//Created/revised by <your name> on <current date>
 
 #include <iostream>
 using namespace std;
