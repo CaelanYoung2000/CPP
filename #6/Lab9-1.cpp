@@ -1,5 +1,4 @@
 //Lab9-1.cpp - circle calculations
-//Created/revised by <your name> on <current date>
 
 #include <iostream>
 #include <cmath>
