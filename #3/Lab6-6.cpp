@@ -3,7 +3,6 @@
 //1				$45,000
 //2, 5			$33,000
 //3, 4			$25,000
-//Created/revised by <your name> on <current date>
 
 #include <iostream>
 using namespace std;
